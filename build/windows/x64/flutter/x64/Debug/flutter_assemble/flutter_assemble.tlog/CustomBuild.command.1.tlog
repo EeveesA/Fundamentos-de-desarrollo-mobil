@@ -1,0 +1,28 @@
+^C:\USERS\EVE\DOCUMENTS\DESARROLLO MOBIL\FLUTTER_APPLICATION_1\BUILD\WINDOWS\X64\CMAKEFILES\1AEC37DC4057588CE6ADEEDEB2F70553\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\Eve\flutter "PROJECT_DIR=C:\Users\Eve\Documents\Desarrollo mobil\flutter_application_1" FLUTTER_ROOT=C:\Users\Eve\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\Eve\Documents\Desarrollo mobil\flutter_application_1\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\Eve\Documents\Desarrollo mobil\flutter_application_1" "FLUTTER_TARGET=C:\Users\Eve\Documents\Desarrollo mobil\flutter_application_1\lib\main.dart" DART_DEFINES=RkxVVFRFUl9CVUlMRF9OQU1FPTEuMC4w,RkxVVFRFUl9CVUlMRF9OVU1CRVI9MQ==,RkxVVFRFUl9WRVJTSU9OPTMuNDcuMg==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049ZDNiMTRjODc2OQ==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049YTgwNGIyNjE2NA==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMy4y DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\Eve\Documents\Desarrollo mobil\flutter_application_1\.dart_tool\package_config.json" C:/Users/Eve/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\EVE\DOCUMENTS\DESARROLLO MOBIL\FLUTTER_APPLICATION_1\BUILD\WINDOWS\X64\CMAKEFILES\8C675BEF206EF2AF0B24E6935F61C58C\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\EVE\DOCUMENTS\DESARROLLO MOBIL\FLUTTER_APPLICATION_1\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Eve/Documents/Desarrollo mobil/flutter_application_1/windows" "-BC:/Users/Eve/Documents/Desarrollo mobil/flutter_application_1/build/windows/x64" --check-stamp-file "C:/Users/Eve/Documents/Desarrollo mobil/flutter_application_1/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

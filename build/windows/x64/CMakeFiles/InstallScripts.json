@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Eve/Documents/Desarrollo mobil/flutter_application_1/build/windows/x64/cmake_install.cmake",
+		"C:/Users/Eve/Documents/Desarrollo mobil/flutter_application_1/build/windows/x64/flutter/cmake_install.cmake",
+		"C:/Users/Eve/Documents/Desarrollo mobil/flutter_application_1/build/windows/x64/runner/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
